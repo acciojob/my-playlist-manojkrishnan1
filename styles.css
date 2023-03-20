@@ -2,6 +2,9 @@ a{
 	text-decoration:none;
 	color:black;
 }
+li{
+	list-style-type:none;
+}
 .player_one{
 	background-color: white;
 	padding: 20px;
@@ -10,7 +13,7 @@ a{
 body{
 	background-color:#cccccc;
 }
-h1,h3{
+h1,h2{
 	text-align:center;
 }
 .player_two{
@@ -20,5 +23,5 @@ h1,h3{
 	padding: 20px;
 	border: 1px solid black;
 	margin-left:30%;
-	width:37%;
+	width:45%;
 }
